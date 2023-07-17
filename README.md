@@ -7,7 +7,7 @@ How to run this file
 5. this website admin "localhost/yourFile/admin"
 
 
-Note :
+Note : <br>
 id : admin <br>
 pw : admin
 
